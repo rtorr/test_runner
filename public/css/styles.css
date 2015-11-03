@@ -1,0 +1,14 @@
+ul {
+  display: block;
+  padding: 0;
+  margin: 0;
+  clear: both;
+  overflow: hidden;
+}
+
+li {
+  display: inline-block;
+  float: left;
+  list-style-type: none;
+  margin-right: 20px;
+}
